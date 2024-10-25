@@ -1,6 +1,6 @@
 ﻿# phl-portal
 
-This repository hosts the Passive Haptic Learning (PHL) web portal, which allows users to upload and access musical scores to play on a wearable PHL glove for musical education. If using this in your own work, please cite the original paper: 
+This repository hosts the Passive Haptic Learning (PHL) web portal, which allows users to upload and access musical scores in a MusicXML format. Then, the users can upload MIDI recordings of their performance or upload lessons to a wearable PHL glove for musical education. If using this in your own research, please cite the original paper: 
 
 Tan Gemicioglu, Elijah Hopper, Brahmi Dwivedi, Richa Kulkarni, Asha Bhandarkar, Priyanka Rajan, Nathan Eng, Adithya Ramanujam, Charles Ramey, Scott M. Gilliland, Celeste Mason, Caitlyn Seim, and Thad Starner. 2024. Passive Haptic Rehearsal for Augmented Piano Learning in the Wild. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 8, 4, Article 187 (December 2024), 26 pages. https://doi.org/10.1145/3699748
 
